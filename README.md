@@ -3,6 +3,21 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullahshawwaf&label=Profile%20views&color=0e75b6&style=flat" alt="abdullahshawwaf" /> </p>
 
+### About me:
+Working with Data in different sectors and using the most needed tools in industry to achieve the goal.
+As I have experience in working with multinational companies and clients from all over the world I can do the following:
+
+* Analysis : Using Power BI and Python to inspect and discover real world data to achieve client goal by creating Professional Dashboard to help the client to take the right decision in the business.
+
+* Machine Learning : Using my Background in Mathematics and Coding to start building ML cycle from scratch till the deployment and Use (Python _ Java) to achieve this goal.
+ Working with the most famous frameworks (Tensorflow _ Pytorch) to build ML and Deep Learning Models.
+
+### Working History:
+
+- 🔭 Data Analyst_TecSolutionGroupPro_SaudiArabia.(Current).
+
+- 🔭 Data Engineer_StarsAndStories_Netherland.(Remote)
+
 - 🔭 I’m currently working on [Upwork](https://bit.ly/3OhwP8K)
 
 - 👯 I’m currently working on [TeacherOn](https://bit.ly/3xHRICV)
